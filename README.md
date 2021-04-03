@@ -8,3 +8,6 @@
 alonek007/alonek007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alonek007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
